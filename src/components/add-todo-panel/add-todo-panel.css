@@ -1,0 +1,4 @@
+.add-todo-panel button {
+  flex-shrink: 0;
+  margin-left: 15px;
+}
